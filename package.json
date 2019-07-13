@@ -1,0 +1,15 @@
+{
+  "name": "ocin-assist",
+  "version": "1.0.0",
+  "description": "Nico gwapo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nico Amarilla",
+  "license": "MIT",
+  "bin": {
+    "ocin": "./cli.js"
+  }
+}
