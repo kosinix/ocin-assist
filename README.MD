@@ -5,7 +5,7 @@ My personal assistant
 
 ## Install
 
-    git clone https://github.com/kosinix/ocin-assistant.git
+    git clone https://github.com/kosinix/ocin-assist.git
 
     npm install
 
@@ -24,5 +24,5 @@ My personal assistant
 
     npm unlink
 
-delete ocin-assistant directory 
+delete ocin-assist directory 
 
